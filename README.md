@@ -1,1 +1,3 @@
-# composite-triggers
+# Composite Trigger
+
+Basic composite trigger examples.
