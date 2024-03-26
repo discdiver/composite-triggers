@@ -1,5 +1,7 @@
 # Composite triggers
 
+![trigger diagram](./trigger.png)
+
 ## Compound & sequential triggers: what's the difference?
 
 A compound trigger is a trigger that is activated by multiple events. For example, a trigger that is activated when a player enters a certain area and presses a button. A sequential trigger is a trigger that is activated by multiple events in a specific order. For example, a trigger that is activated when a player presses a button and then enters a certain area.
