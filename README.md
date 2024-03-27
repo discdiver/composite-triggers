@@ -1,6 +1,6 @@
 # Composite triggers
 
-This repo is a quick cheat sheet plus problems for learning about Prefect's composite trigers.
+This repo contains a brief introduction to Prefect's composite triggers plus practice prompts for trying them out.
 
 ![trigger diagram](./trigger.png)
 
