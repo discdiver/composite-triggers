@@ -1,6 +1,6 @@
 # Composite triggers
 
-![trigger diagram](./trigger.png)
+![trigger diagram](./triggers.png)
 
 ## Compound & sequential triggers: what's the difference?
 
