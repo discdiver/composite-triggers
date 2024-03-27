@@ -43,7 +43,7 @@ Let's try them out!
 
 ## Problem 3: Compound trigger in event-driven workflow with custom payload -> deployment parameter
 
-****Note: work here is ongoing and you may need to build from Main.****
+!!Note: work here is ongoing and you may need to build from Main.!!
 
 1. Make an automation with a trigger that fires when two out of three custom events or webhook hits occur within three minutes of each other.
 1. Make sure one of the custom events has a custom payload.
